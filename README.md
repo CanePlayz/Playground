@@ -1,6 +1,6 @@
 # HDGraph.Core
 
-![HDGraph.Core logo](images/logo.svg)
+<img src="./images/logo.svg" width="50%" alt="HDGraph.Core logo">
 
 ## What is HDGraph [.Core]?
 
