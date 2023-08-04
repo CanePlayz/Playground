@@ -1,6 +1,6 @@
 # HDGraph.Core
 
-<img align="right" src="./images/logo.svg" width="50%" alt="HDGraph.Core logo">
+<img align="center" src="./images/logo.svg" width="50%" alt="HDGraph.Core logo">
 
 ## What is HDGraph [.Core]?
 
